@@ -67,10 +67,11 @@
       }
     },
     "mu.cluster.cluster-creator-kit": {
-      "version": "file:D:/Desktop/ClusterCreatorKit-1.11.0",
+      "version": "1.11.0",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://registry.npmjs.com"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
